@@ -1,0 +1,6 @@
+Authors:  Bob Ellis & Jesse James
+Date:  April 21, 2015
+File:  scrabble_score.rb
+
+Summary:  Created a method (scrabble_score) to take a string value and return the Scrabble
+score.  
